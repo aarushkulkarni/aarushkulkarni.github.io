@@ -9,4 +9,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Aarush Kulkarni, and I am a rising sophmore at the Acton-Boxborough Regional High School in Acton, Massachusetts. I am interested in mathematics and chemistry. I also dabble in computer science and physics. In my free time, I like to play spikeball or frisbee.
+Hello! I am a rising sophomore at the Acton-Boxborough Regional High School in Massachusetts. I am interested in mathematics and chemistry. I also dabble in computer science and physics. In my free time, I like to play spikeball or frisbee.
